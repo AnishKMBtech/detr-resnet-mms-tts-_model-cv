@@ -1,3 +1,4 @@
+I'm the sole owner of the workflow 
 # Object Detection with Webcam and Text-to-Speech (TTS) for Edge Devices
 
 An edge computing implementation of real-time object detection with text-to-speech capabilities, optimized for embedded systems and resource-constrained environments.
